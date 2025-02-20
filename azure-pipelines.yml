@@ -6,7 +6,7 @@
 trigger: none
 
 pool:
-  vmImage: VTALADI
+  vmImage: self-hosted-pool
 
 steps:
 - task: NodeTool@0
